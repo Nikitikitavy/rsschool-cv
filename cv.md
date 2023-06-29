@@ -21,7 +21,7 @@ VS Code
 
 **Code example:**
 ```
-let a = parseInt(prompt ('Enter number `Р°`'))
+let a = parseInt(prompt ('Enter number `Р`'))
 let b = parseInt(prompt ('Enter number `b`'))
 let sum = a + b;
 alert('Sum of a + b = ' + sum) 
