@@ -11,7 +11,7 @@ Can understand simple english.
 **Contact information:**
 e-mail: shillygona@gmail.com
 phone:  +33 999 999 999
-[GitHub pages](https://Nikitikitavy.github.io/rsschool-cv/cv)
+[GitHub pages](./img/Avatar_CV.jpg)
 
 **Skills in the future:**
 CSS3, HTML5
@@ -21,7 +21,7 @@ VS Code
 
 **Code example:**
 ```
-let a = parseInt(prompt ('Enter number `Р°`'))
+let a = parseInt(prompt ('Enter number `Р`'))
 let b = parseInt(prompt ('Enter number `b`'))
 let sum = a + b;
 alert('Sum of a + b = ' + sum) 
