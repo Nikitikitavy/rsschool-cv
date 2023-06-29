@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Nikitikitavy.github.io/rsschool-cv/cv
