@@ -1,6 +1,5 @@
-![User_avatar](Avatar_CV.jpg)
-
-###### About me.
+![User_avatar](./img/Avatar_CV.jpg)
+# About me.
 Mykola Klimin
 Junior Frontend Developer
 
@@ -11,7 +10,7 @@ Can understand simple english.
 **Contact information:**
 e-mail: shillygona@gmail.com
 phone:  +33 999 999 999
-[GitHub pages](./img/Avatar_CV.jpg)
+[GitHub pages](https://nikitikitavy.github.io/rsschool-cv/cv)
 
 **Skills in the future:**
 CSS3, HTML5
