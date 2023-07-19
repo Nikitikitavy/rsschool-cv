@@ -1,0 +1,12 @@
+header, nav, main, footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+p{
+    background-color: rgba(189, 191, 192, .3) ;
+    max-width: fit-content;
+}       
